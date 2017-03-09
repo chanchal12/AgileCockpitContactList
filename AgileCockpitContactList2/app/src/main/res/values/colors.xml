@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0090D6</color>
+    <color name="colorPrimaryDark">#067db7</color>
+    <color name="colorAccent">#dee8ed</color>
+    <color name="light_gray">#cac8c8</color>
+    <color name="list_background">#3F51B5</color>
+    <color name="list_background_pressed">#24317c</color>
+    <color name="list_pressed">#480907</color>
+    <color name="white">#ffffff</color>
+    <color name="whitepressed">#d4d1d1</color>
+    <color name="black">#000000</color>
+    <color name="bgcolor">#0090D6</color>
+</resources>

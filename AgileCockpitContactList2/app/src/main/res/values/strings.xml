@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgileCockpit</string>
+    <string name="response_msg">Incorrect response from server</string>
+    <string name="auth_msg">Fetching Contact List...</string>
+    <string name="confirm_msg">This contact will be deleted permanently </string>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+</resources>
